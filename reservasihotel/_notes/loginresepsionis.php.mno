@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_loginresepsionis" value="name:id_resepsionis;datatype:int,name:id_tamu;datatype:int,name:nama_tamu;datatype:string,name:nomor_kamar;datatype:int,name:tgl_check_in;datatype:date,name:tgl_check_out;datatype:date,name:nama-resepsionis;datatype:string,name:harga;datatype:string,name:nomor_pemesanan;datatype:int,name:username;datatype:string,name:password;datatype:string" />
+</info>

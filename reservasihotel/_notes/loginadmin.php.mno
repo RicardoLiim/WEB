@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_admin;datatype:int,name:username;datatype:string,name:password;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_loginadmin" value="name:id_admin;datatype:int,name:username;datatype:string,name:password;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_logintamu" value="name:id_tamu;datatype:int,name:nama_tamu;datatype:string,name:nik;datatype:string,name:no_hp;datatype:string,name:alamat;datatype:string,name:jenis_kelamin;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+</info>

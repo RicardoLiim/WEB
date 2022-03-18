@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editkamar" value="name:nomor_kamar;datatype:int,name:jenis_kamar;datatype:string,name:harga;datatype:string,name:jenis_kasur;datatype:string" />
+</info>
